@@ -63,7 +63,7 @@ void setup() {
     lcd.print("Start To Run...!");    
     delay(2500);
     
-    //lcd.print("LCD Key Shield");
+
     
     Serial.println("Knock... Knock... Wake Up... LCD Key Shield start");
     
